@@ -1,5 +1,5 @@
 {
-  "name": "siesvi",
+  "name": "@maukode/siesvi",
   "version": "0.1.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -12,7 +12,7 @@
   "keywords": ["csv", "csv-tools", "csv-parser"],
   "author": "Ucok Isa Lubis <ulubis98@gmail.com>",
   "license": "MIT",
-  "description": "",
+  "description": "siesvi is CSV library that use typescript and provide CSV common functions from parsing, validation, to transformation.",
   "devDependencies": {
     "@types/jest": "^29.5.14",
     "@types/node": "^22.13.9",

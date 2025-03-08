@@ -4,6 +4,12 @@
 
 The library offers a high-level wrapper class for ease of use, as well as lower-level stream-based classes for more advanced or customized processing pipelines.  
 
+## Installation
+
+`npm i @maukode/siesvi`
+
+**Important:** don't forget scope `@maukode`, so full name of this package is `@maukode/siesvi`
+
 ## Core Components  
 
 `siesvi` consists of two main types of components:  
